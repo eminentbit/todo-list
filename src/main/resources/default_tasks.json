@@ -1,0 +1,28 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Complete project documentation",
+            "description": "Write comprehensive documentation for the current project",
+            "status": "pending",
+            "priority": "high",
+            "dueDate": "2024-02-01"
+        },
+        {
+            "id": 2,
+            "title": "Review pull requests",
+            "description": "Review team members' code submissions",
+            "status": "in_progress",
+            "priority": "medium",
+            "dueDate": "2024-01-25"
+        },
+        {
+            "id": 3,
+            "title": "Update dependencies",
+            "description": "Update project dependencies to latest stable versions",
+            "status": "pending",
+            "priority": "low",
+            "dueDate": "2024-02-10"
+        }
+    ]
+}

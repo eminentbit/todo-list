@@ -79,4 +79,12 @@ public class Task implements Serializable {
     public UUID getId() {
         return this._id;
     }
+
+    public void setDescription(String text) {
+        this.description = text;
+    }
+
+    public void markAsCompleted() {
+        this.completed = true;
+    }
 }
